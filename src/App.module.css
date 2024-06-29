@@ -5,7 +5,9 @@
     background-color: white;
     padding: 32px 24px;
     border-radius: 12px;
-    max-width: 600px;
+    max-width: 100%;
+    margin: 20px;
+    
 }
 
 .header{
